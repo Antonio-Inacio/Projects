@@ -1,7 +1,7 @@
-# Projects
+## Projects
 Esta pasta reúne mini projetos práticos com foco em Dados.
 
-# Data_Cleaning/ # Esta pasta reúne mini projetos com foco em análise e manipulação de dados
+# Data_Cleaning/  Esta pasta reúne mini projetos com foco em análise e manipulação de dados
     
     # 📁 Datasets/ # Armazena os dados brutos e originais
 
